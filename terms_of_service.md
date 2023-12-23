@@ -26,7 +26,7 @@ You may not use as a username any name that is offensive, vulgar, or obscene.
 We reserve the right to refuse service, terminate accounts, remove or edit content, or cancel orders in our sole discretion.
 
 Communications
-By creating an Account on our Service, you agree to subscribe to newsletters, marketing or promotional materials, and other information we may send. However, you may opt-out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing us at hello@creobase.com
+By creating an Account on our Service, you agree to subscribe to newsletters, marketing or promotional materials, and other information we may send. However, you may opt-out of receiving any, or all, of these communications from us by following the unsubscribe link or by emailing us at support@creobase.com
 
 Prohibited Uses
 You may use Service only for lawful purposes and in accordance with Terms. You agree not to use Service:
@@ -69,7 +69,7 @@ We respect the intellectual property rights of others and ask our users to do th
 
 When removing or disabling access in response to a notice, we attempt to contact the affected member, providing information about the notice and removal. In cases of alleged copyright infringement, we also provide information on submitting a counter-notice. We may share a copy of the infringement notice, including the reporter's name and email, with the affected member.
 
-To report alleged infringement, email hello@creobase.com with:
+To report alleged infringement, email support@creobase.com with:
 (a) Your signature (electronic or physical) as the copyright or intellectual property owner's authorized agent.
 (b) A description of the infringed work or property.
 (c) The location of the alleged infringement on our Service, including the URL.
@@ -96,7 +96,7 @@ Analytics
 We use third-party Service Providers, like Google Analytics, to monitor and analyze our Service's use. Google Analytics tracks website traffic and shares data with other Google services. For more details on Google's privacy practices and data safeguarding, visit their Privacy Terms and policy for safeguarding data web pages.
 
 Error Reporting and Feedback
-You can provide feedback directly at hello@creobase.com or via third-party sites and tools. You acknowledge:
+You can provide feedback directly at support@creobase.com or via third-party sites and tools. You acknowledge:
 (i) No intellectual property rights in the Feedback are retained by you.
 (ii) We may have similar development ideas.
 (iii) Feedback does not contain confidential or proprietary information.
